@@ -6,5 +6,5 @@ Flask==3.0.2
 importlib-metadata==4.6.4
 plotly==5.20.0
 unicorn==2.0.1.post1
-pip install unicorn
+gunicorn==19.7.1
 gunicorn
