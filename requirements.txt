@@ -2,7 +2,6 @@ blinker==1.7.0
 certifi==2024.2.2
 charset-normalizer==3.3.2
 click==8.1.7
-command-not-found==0.3
 cryptography==3.4.8
 dash==2.16.1
 dash-core-components==2.0.0
